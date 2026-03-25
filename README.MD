@@ -5,7 +5,14 @@ Este projeto consiste em um Sistema de Gestão de Trabalhador desenvolvido em Ja
 
 A aplicação simula um cenário de controle de pagamentos, permitindo o cadastro de trabalhadores, sua associação a departamentos e o registro de contratos de trabalho por hora. Com base nessas informações, o sistema calcula a renda mensal do trabalhador, considerando o salário base somado aos ganhos provenientes dos contratos realizados no período informado.
 
-🚀 Funcionalidades
+Sobre o Projeto
+
+Este projeto consiste em um Sistema de Gestão de Trabalhador desenvolvido em Java, com o objetivo de aplicar e consolidar conceitos fundamentais de Programação Orientada a Objetos (POO).
+
+A aplicação simula um cenário de controle de pagamentos, permitindo o cadastro de trabalhadores, sua associação a departamentos e o registro de contratos de trabalho por hora. Com base nessas informações, o sistema calcula a renda mensal do trabalhador, considerando o salário base somado aos ganhos provenientes dos contratos realizados no período informado.
+
+Funcionalidades
+
 Cadastro de trabalhador
 Associação com departamento
 Definição de nível profissional:
@@ -14,7 +21,7 @@ MID_LEVEL
 SENIOR
 Registro de múltiplos contratos por hora
 Cálculo de renda mensal (salário base + contratos)
-🧠 Conceitos Aplicados
+Conceitos Aplicados
 Programação Orientada a Objetos (POO)
 Encapsulamento
 Composição de objetos
@@ -22,7 +29,8 @@ Uso de enum (NivelTrabalho)
 Coleções (ArrayList)
 Manipulação de datas (Date e Calendar)
 Entrada de dados com Scanner
-🏗️ Estrutura do Projeto
+Estrutura do Projeto
+
 📁 aplicação
  └── Main.java
 
@@ -31,7 +39,7 @@ Entrada de dados com Scanner
  ├── HorasContrato.java
  ├── NivelTrabalho.java
  └── Trabalho.java
-🖥️ Exemplo de Uso
+Exemplo de Uso
 Entre com o nome do departamento: TI
 Nome: Alex
 Nivel de trabalho: MID_LEVEL
@@ -52,7 +60,7 @@ Entre com o mes e ano para calculo (MM/YYYY): 08/2023
 Nome: Alex
 Departamento: TI
 Ganhou no mes: 08/2023: 2600.00
-⚠️ Regras de Entrada
+Regras de Entrada
 O nível do trabalhador deve ser informado exatamente como:
 JUNIOR
 MID_LEVEL

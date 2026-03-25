@@ -1,10 +1,3 @@
-💼 Sistema de Gestão de Trabalhador
-📖 Sobre o Projeto
-
-Este projeto consiste em um Sistema de Gestão de Trabalhador desenvolvido em Java, com o objetivo de aplicar e consolidar conceitos fundamentais de Programação Orientada a Objetos (POO).
-
-A aplicação simula um cenário de controle de pagamentos, permitindo o cadastro de trabalhadores, sua associação a departamentos e o registro de contratos de trabalho por hora. Com base nessas informações, o sistema calcula a renda mensal do trabalhador, considerando o salário base somado aos ganhos provenientes dos contratos realizados no período informado.
-
 Sobre o Projeto
 
 Este projeto consiste em um Sistema de Gestão de Trabalhador desenvolvido em Java, com o objetivo de aplicar e consolidar conceitos fundamentais de Programação Orientada a Objetos (POO).
@@ -12,7 +5,6 @@ Este projeto consiste em um Sistema de Gestão de Trabalhador desenvolvido em Ja
 A aplicação simula um cenário de controle de pagamentos, permitindo o cadastro de trabalhadores, sua associação a departamentos e o registro de contratos de trabalho por hora. Com base nessas informações, o sistema calcula a renda mensal do trabalhador, considerando o salário base somado aos ganhos provenientes dos contratos realizados no período informado.
 
 Funcionalidades
-
 Cadastro de trabalhador
 Associação com departamento
 Definição de nível profissional:
@@ -30,7 +22,6 @@ Coleções (ArrayList)
 Manipulação de datas (Date e Calendar)
 Entrada de dados com Scanner
 Estrutura do Projeto
-
 📁 aplicação
  └── Main.java
 
@@ -39,6 +30,8 @@ Estrutura do Projeto
  ├── HorasContrato.java
  ├── NivelTrabalho.java
  └── Trabalho.java
+
+
 Exemplo de Uso
 Entre com o nome do departamento: TI
 Nome: Alex
